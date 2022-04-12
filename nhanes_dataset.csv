@@ -1,4 +1,4 @@
-Annual_Family_Income_dollar_,Used_Marijuana_Or_Hashish,Education_Level,Experience_Tooth_Aching,Could_Not_Afford_Food,Energy_kcal,Have_Or_Had_Heart_Attack,Body_Mass_Index_kg_m**2,Alcohol_gm,Age,Experience_Sleeping_Issue,Gender,Caffeine_mg,Water_Per_Day_gm,Feeling_Down_or_Depressed,Total_Fat_gm,Diastolic_Blood_pressure_mm_Hg,Experience_Hearing_Problem,Total_Sugars_gm,Have_Diabetes
+Annual_Family_Income_dollar,Used_Marijuana_Or_Hashish,Education_Level,Experience_Tooth_Aching,Could_Not_Afford_Food,Energy_kcal,Have_Or_Had_Heart_Attack,Body_Mass_Index_kg_m**2,Alcohol_gm,Age,Experience_Sleeping_Issue,Gender,Caffeine_mg,Water_Per_Day_gm,Feeling_Down_or_Depressed,Total_Fat_gm,Diastolic_Blood_pressure_mm_Hg,Experience_Hearing_Problem,Total_Sugars_gm,Have_Diabetes
 20000.0,,High school graduate,Never,No,1574.0,No,26.7,0.0,69,No,Male,203.0,960.0,No,52.81,72.0,No,176.47,Yes
 35000.0,Yes,High school graduate,Never,No,5062.0,No,28.6,119.0,54,No,Male,240.0,360.0,No,124.29,62.0,No,44.99,Yes
 50000.0,,Some college,Never,No,1743.0,No,28.9,0.0,72,No,Male,45.0,1254.0,No,65.97,90.0,Yes,102.9,Yes
